@@ -43,3 +43,5 @@ time.sleep(3)
 # Feche o navegador
 driver.quit()
 print("Mensagem enviada com sucesso!")
+
+exit()
